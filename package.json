@@ -1,0 +1,20 @@
+{
+  "name": "mtex",
+  "version": "0.0.1",
+  "description": "TBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversemix/mtex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversemix/mtex/issues"
+  },
+  "homepage": "https://github.com/diversemix/mtex#readme"
+}
